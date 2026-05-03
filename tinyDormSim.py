@@ -1,3 +1,6 @@
+# Dorm Life Simulator CLI
+# Author: Nguyễn Đình Nam
+
 import random
 
 class DormMember():
